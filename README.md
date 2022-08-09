@@ -6,7 +6,10 @@ The implementation of this game was solely function-based.
 
 Below is a working montage of the game
 
+<img src = "Image/move.png" width = '400'>
+
 <img src = "Image/over.png" width = '400'>
+
 
 
 
