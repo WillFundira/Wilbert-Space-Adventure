@@ -8,9 +8,11 @@ Below is a working montage of the game
 
 <img src = "Image/move.png" width = '400'>
 
+<img src = "Image/fire.png" width = '400'>
+
 <img src = "Image/over.png" width = '400'>
 
-<img src = "Image/fire.png" width = '400'>
+
 
 
 
